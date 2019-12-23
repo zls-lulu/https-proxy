@@ -1,10 +1,4 @@
 
-重要：
-https代理  caddy安装教程一键安装
-wget https://github.com/jerry-wolf/scripts/raw/master/caddy_forwardproxy.sh && chmod +x caddy_forwardproxy.sh && ./caddy_forwardproxy.sh
-
-
-
 #!/bin/bash
 if [ `id -u` != 0 ]
 then
